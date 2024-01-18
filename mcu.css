@@ -38,12 +38,12 @@ body{
 h2{
     color: rgb(255, 255, 255);
     font-size: 40px;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 
 .buttons{
-    margin-top: 30px;
+    margin-top: 10px;
     width: 100%;
     height: 10%;
     display:flex;
